@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8882cb81-f0f1-4079-b773-46d85e112905")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 74.93 44.45)
+		(size 33.02 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "37a5a5da-174b-4d99-be09-c393630c7539")
+		(property "Sheetname" "MCU"
+			(at 74.93 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 74.93 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "POETempSensor"
+				(path "/8882cb81-f0f1-4079-b773-46d85e112905"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 163.83 45.72)
+		(size 34.29 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3cd4941e-3cef-4c26-81e6-dd9cbafa0324")
+		(property "Sheetname" "Peripherals"
+			(at 163.83 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "peripherals.kicad_sch"
+			(at 163.83 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "POETempSensor"
+				(path "/8882cb81-f0f1-4079-b773-46d85e112905"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 46.99)
+		(size 30.48 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "97e4db48-2905-42e0-8082-dbecc9821237")
+		(property "Sheetname" "Ethernet PHY"
+			(at 119.38 46.2784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ethernetphy.kicad_sch"
+			(at 119.38 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "POETempSensor"
+				(path "/8882cb81-f0f1-4079-b773-46d85e112905"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
