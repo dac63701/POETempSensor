@@ -423,6 +423,10 @@
     [
       "3cd4941e-3cef-4c26-81e6-dd9cbafa0324",
       "Peripherals"
+    ],
+    [
+      "92cfeedb-a83e-46ee-a18c-f2a63fd40542",
+      "Power"
     ]
   ],
   "text_variables": {}
