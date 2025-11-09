@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "c0586167-ef85-401f-be25-6428ff70ab4d")
 	(paper "A3")
+	(title_block
+		(title "MCU")
+		(date "2025-11-09")
+		(rev "v0.1")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers

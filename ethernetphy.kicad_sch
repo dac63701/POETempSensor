@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "ff1b05a2-b4e7-4626-9343-6ca7970607e6")
 	(paper "A4")
+	(title_block
+		(title "Ethernet PHY")
+		(date "2025-11-09")
+		(rev "v0.1")
+	)
 	(lib_symbols
 		(symbol "DP83825IRMQT:DP83825IRMQT"
 			(pin_names
